@@ -1,0 +1,6 @@
+{
+  "name": "Metro Cat Aging Report",
+  "description": "ระบบรายงานลูกหนี้ค้างชำระ (Aging Report) สำหรับผู้จัดหารฝ่ายสาขา พนักงานขาย และรายละเอียดลูกค้ารายบุคคล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
